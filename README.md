@@ -1,5 +1,5 @@
 # Calculator-development-with-help-of-Npm-and-Nodejs-in-ec2-instance
-Creating a basic command-line calculator application using Node.js and npm (Node Package Manager) is a straightforward process. In this example, we will build a calculator that can perform addition, subtraction, multiplication, and division operations.
+Development a calculator application using Node.js and npm (Node Package Manager) is a straightforward process. In this example, we will build a calculator that can perform addition, subtraction, multiplication, and division operations.
 # Simulation chart
 ![Simulation Calculator chart](https://github.com/RAJAT-VAR/Calculator-development-with-help-of-Npm-and-Nodejs-in-ec2-instance/assets/132341485/70dfa157-0395-4a7e-bf14-4ec5d868a81d)
 # SCREENSHOT
